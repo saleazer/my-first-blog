@@ -1,12 +1,12 @@
 h1 a {
-    color: rgb(252, 227, 5);
+    color: rgb(151, 87, 253);
     font-family: 'Lobster';
 }
 body {
     padding-left: 15px;
 }
 .page-header {
-    background-color: rgb(252, 227, 5);
+    background-color: rgb(151, 87, 253);
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
